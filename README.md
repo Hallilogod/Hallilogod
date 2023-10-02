@@ -6,7 +6,7 @@
 - Networking:
   Im interested in networking thats all
 - Linux:
-  im also interested in linux, because windows sometimes sucks (i still love windows) and ye
+  im also interested in linux, because windows sometimes sucks (i still love windows) and ye (YES IK LINUX IS JUST THE KERNEL)
 - Malware:
   I LOVE to create windows malware (for educational purposes) malware with GDI effects and harmful code, designed for windows
 - Java & other coding stuff:
