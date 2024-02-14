@@ -19,8 +19,8 @@
 
 
 **Other info about me:**
-- I love gaming, i play minecraft and a dance of fire and ice, i also have a minecraft server: Hallilobox.minehut.gg (you might land on the minehut lobby if the server is offline, if so try /join Hallilobox and wait a bit, 
-but it might not work cuz minehut is weird)
+- I love gaming, i play minecraft and a dance of fire and ice, i also have a minecraft server: Hallilobox.xenon.club (you might land on the minehut lobby if the server is offline, if so try /join Hallilobox and wait a bit, 
+but it might not work cuz xenon is slow)
 
 - I have goofy ahh humor 💀 and love shitpost stuff.
 
