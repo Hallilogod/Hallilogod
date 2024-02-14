@@ -24,6 +24,8 @@ but it might not work cuz xenon is slow)
 
 - I have goofy ahh humor 💀 and love shitpost stuff.
 
+- pando sucks deez nuts
+
 **You should join mc Discord server https://discord.com/invite/wgUnjkwmsq**
 
 
