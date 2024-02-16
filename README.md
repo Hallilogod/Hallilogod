@@ -10,10 +10,10 @@
 - Malware:
   I LOVE to create windows malware (for educational purposes) malware with GDI effects and harmful code, designed for windows
 - Java & other coding stuff:
-  My fav programming language is java, its my first one and i started with writing bukkit server plugins and im kinda good at it, i also like C and hate python but also love python lol,
-  im intersted in ASM and VERY interested in writing windows kernel drivers, im bad at it but i wanna focus on it one day.
+  My fav programming language is C, it was java before. Vava was my first one and i started with writing bukkit server plugins and im kinda good at it, i hate python.
+  Im intersted in ASM and VERY interested in winapi / wdk stuff, i write a lot of windows stuff in C.
 - Low level stuff:
-  i love low level stuff and hardware stuff, like extracting firmware from things, coding in assembly and interacting with hardware is stuff im still bad at i would say but im interested in it and also learning about it.
+  I love low level stuff and hardware stuff, coding in assembly (i suck at asm).
 - Hacking:
   I started learning about hacking some time ago and im also kinda interested in that.
 
