@@ -13,17 +13,14 @@
   My fav programming language is C, it was java before. Vava was my first one and i started with writing bukkit server plugins and im kinda good at it, i hate python.
   Im intersted in ASM and VERY interested in winapi / wdk stuff, i write a lot of windows stuff in C.
 - Low level stuff:
-  I love low level stuff and hardware stuff, coding in assembly (i suck at asm).
+  I love low level stuff and hardware stuff
 - Hacking:
   I started learning about hacking some time ago and im also kinda interested in that.
 
 
 **Other info about me:**
-- I love gaming, i play minecraft, a dance of fire and ice and geometry dash (im a spam god in gd), i also have a minecraft server: Hallilobox.xenon.club (you might land on the xenon lobby if the server is offline, if so try /join Hallilobox and wait a bit, 
-but it might not work cuz xenon is slow)
-
-- I have goofy ahh humor 💀 and love shitpost stuff.
-
+- I love gaming, i play minecraft, a dance of fire and ice and geometry dash
+- 
 - pando sucks deez nuts
 
 **You should join mc Discord server https://discord.com/invite/wgUnjkwmsq**
