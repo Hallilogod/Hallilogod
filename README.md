@@ -20,7 +20,7 @@
 
 **Other info about me:**
 - I love gaming, i play minecraft, a dance of fire and ice and geometry dash
-- 
+
 - pando sucks deez nuts
 
 **You should join mc Discord server https://discord.com/invite/wgUnjkwmsq**
